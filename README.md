@@ -1,4 +1,4 @@
-# InformationAnalysis
+# Information analysis
 
 This repo contains all homeworks from ["Information Retrieval and Analysis" course](https://github.com/SmirnovAlexander/InformationAnalysis/tree/master/slides).
 
