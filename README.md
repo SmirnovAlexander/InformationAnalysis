@@ -1,13 +1,13 @@
 # Information Analysis
 
-This repo contains all homeworks from ["Information Retrieval and Analysis" course](https://github.com/SmirnovAlexander/InformationAnalysis/tree/master/slides).
+This repo contains all homeworks from ["Information Retrieval and Analysis" course](slides).
 
 Below are listed all tasks with links and descriptions.
 
 ## Homework 1. 
 28.09.19
 
-[Data sources slides](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/5_Анализ%20данных_Источники%20данных.pptx)
+[Data sources slides](slides/05_Анализ%20данных_Источники%20данных.pptx)
 
 - [1.1]()
 
@@ -25,9 +25,9 @@ Below are listed all tasks with links and descriptions.
 ## Homework 2. 
 12.10.19
 
-[Data preparation slides](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/6_Анализ%20данных_Подготовка%20данных.pptx)
+[Data preparation slides](slides/06_Анализ%20данных_Подготовка%20данных.pptx)
 
-[Describal statistics slides](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/7_Анализ%20данных_Описательные%20статистики.pptx)
+[Describal statistics slides](slides/07_Анализ%20данных_Описательные%20статистики.pptx)
 
  - [2.1]()
  
@@ -40,9 +40,9 @@ Below are listed all tasks with links and descriptions.
 ## Homework 3. 
 26.10.19
 
-[Data visualization slides](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/8_Анализ%20данных_Визуализация%20данных.pptx)
+[Data visualization slides](slides/08_Анализ%20данных_Визуализация%20данных.pptx)
 
-[Data norming and conversioning](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/9_Анализ%20данных_Преобразование%20%20и%20нормировка%20данных.pptx)
+[Data norming and conversioning](slides/09_Анализ%20данных_Преобразование%20%20и%20нормировка%20данных.pptx)
 
  - [3.1]()
    
@@ -50,4 +50,22 @@ Below are listed all tasks with links and descriptions.
    
  - [3.2]()
    
-   Semen want to rent a flat. You're given 3 equivalent params: distance to subway (minutes), number of subway station to get to work, rent price (thousands rubles). Way from flat to subway should not exceed 20 minutes. Choose 3 best options. Your number of table is (number_in_group mod 6 + 1). Table is [here](https://github.com/SmirnovAlexander/InformationAnalysis/blob/master/slides/Нормировка.xlsx). 
+   Semen want to rent a flat. You're given 3 equivalent params: distance to subway (minutes), number of subway station to get to work, rent price (thousands rubles). Way from flat to subway should not exceed 20 minutes. Choose 3 best options.
+   
+## Homework 4. 
+09.11.19
+
+[Main ML tasks](slides/10_Анализ%20данных_Основные%20задачи%20МО.pptx)
+
+[Example of building simpliest model](slides/11_Анализ%20данных_Пример%20построения%20простейшей%20модели.pptx)
+
+[Models comparison](slides/12_Анализ%20данных_Оценка%20качества%20прогнозирования.pptx)
+
+ - [4.1]()
+   
+   Build 3 models for flat price prediction:
+      - Price based on square meters number
+      - Price based on subway distance
+      - Price based on both square meters number and subway distance
+   
+   For 1st and 2nd models draw both train data and predicted outputs. Compare real results with model outputs using all metrics from slides.
