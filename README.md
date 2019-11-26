@@ -69,3 +69,34 @@ Below are listed all tasks with links and descriptions.
       - Price based on both square meters number and subway distance
    
    For 1st and 2nd models draw both train data and predicted outputs. Compare real results with model outputs using all metrics from slides.
+   
+## Homework 5. 
+23.11.19
+
+[Classification](/slides/13_Анализ%20данных_Классификация.pptx)
+
+[Estimation of quality classification metrics](/slides/14_Анализ%20данных_Оценка%20качества%20классификации.pptx)
+
+[Clustering](/slides/15_Анализ%20данных_Кластеризация.pptx)
+
+[Clustering (p. 2)](/slides/16_Анализ%20данных_Кластеризация%20(продолжение).pptx)
+
+ - [5.1]()
+   
+   Download [Iris data](http://archive.ics.uci.edu/ml/datasets/Iris).
+   
+   Divide data on 2 sets (25 samples of each class in set). Classify samples of 2nd set based on data from 1st set. Show classification results in 2D dotten plots on petals and sepala. Compare classification results with facts and estimate classification quality.
+   
+ - [5.2]()
+ 
+   1) Make set of dots on a plane with several jellieses.
+   2) Apply to this dataset algorithms k-means and Dbscan.
+   3) Visualize results.
+   4) Estimate clustering quality results with silhouette metric.
+   
+ - [5.3]()
+ 
+   1) Make set of dots on a plane with several jellieses.
+   2) Apply to this dataset agglomerative algorithm until unioning into 1 cluster.
+   3) Make table and plot of silhouette metric changing.
+   4) Visualize partition that corresponds to best metric value.
