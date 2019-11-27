@@ -100,3 +100,35 @@ Below are listed all tasks with links and descriptions.
    2) Apply to this dataset agglomerative algorithm until unioning into 1 cluster.
    3) Make table and plot of silhouette metric changing.
    4) Visualize partition that corresponds to best metric value.
+
+## Homework 6. 
+07.12.19
+
+[Distance metrics](/slides/17_Анализ%20данных_Метрики%20расстояний%20для%20различных%20шкал.pptx)
+
+[Time series analysis](/slides/18_Анализ%20временных%20рядов.pptx)
+
+[Time series smoothing](/slides/19_Сглаживание%20временных%20рядов.pptx)
+
+[Time series trends detection](/slides/20_Определение%20трендов%20временных%20рядов.pptx)
+
+[Modelling time series with seasonal components](/slides/21_Моделирование%20временных%20рядов%20с%20сезонными%20составляющими.pptx)
+
+[Time series clustering](/slides/22_Кластеризация%20временных%20рядов.pptx)
+
+ - [6.1]()
+   
+   1) Find or model time seies.
+   2) Build smoothed time series.
+   3) Build correct trend for time series.
+   4) Define trend determination coefficent.
+   5) Predict (and show on plot) 5 predict values.
+   6) Estimate prediction with MAPE metric.
+   
+ - [6.2]()
+ 
+   1) Find or model time seies with seasonal components (more than 3 periods).
+   2) Come up with time series model.
+   3) Use model for prediction for 4 periods.
+   4) Visualize initial series and prediction.
+   5) Estimate prediction with MAPE metric.
