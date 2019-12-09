@@ -61,7 +61,7 @@ Below are listed all tasks with links and descriptions.
 
 [Models comparison](slides/12_Анализ%20данных_Оценка%20качества%20прогнозирования.pptx)
 
- - [4.1]()
+ - [4.1](FlatPricePrediction/notebooks/FlatPricePrediction.ipynb)
    
    Build 3 models for flat price prediction:
       - Price based on square meters number
