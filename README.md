@@ -127,7 +127,7 @@ Below are listed all tasks with links and descriptions.
    
  - [6.2]()
  
-   1) Find or model time seies with seasonal components (more than 3 periods).
+   1) Find or model time series with seasonal components (more than 3 periods).
    2) Come up with time series model.
    3) Use model for prediction for 4 periods.
    4) Visualize initial series and prediction.
