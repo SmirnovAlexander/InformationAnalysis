@@ -81,20 +81,20 @@ Below are listed all tasks with links and descriptions.
 
 [Clustering (p. 2)](/slides/16_Анализ%20данных_Кластеризация%20(продолжение).pptx)
 
- - [5.1]()
+ - [5.1](ClassificationAndClustering/notebooks/IrisClassification.ipynb)
    
    Download [Iris data](http://archive.ics.uci.edu/ml/datasets/Iris).
    
    Divide data on 2 sets (25 samples of each class in set). Classify samples of 2nd set based on data from 1st set. Show classification results in 2D dotten plots on petals and sepala. Compare classification results with facts and estimate classification quality.
    
- - [5.2]()
+ - [5.2](ClassificationAndClustering/notebooks/ClusterAnalysis.ipynb)
  
    1) Make set of dots on a plane with several jellieses.
    2) Apply to this dataset algorithms k-means and Dbscan.
    3) Visualize results.
    4) Estimate clustering quality results with silhouette metric.
    
- - [5.3]()
+ - [5.3](ClassificationAndClustering/notebooks/AgglomerativeClustering.ipynb)
  
    1) Make set of dots on a plane with several jellieses.
    2) Apply to this dataset agglomerative algorithm until unioning into 1 cluster.
@@ -116,7 +116,7 @@ Below are listed all tasks with links and descriptions.
 
 [Time series clustering](/slides/22_Кластеризация%20временных%20рядов.pptx)
 
- - [6.1]()
+ - [6.1](TimeSeriesPredictions/notebooks/TimeSeriesTrendPrediction.ipynb)
    
    1) Find or model time seies.
    2) Build smoothed time series.
@@ -125,7 +125,7 @@ Below are listed all tasks with links and descriptions.
    5) Predict (and show on plot) 5 predict values.
    6) Estimate prediction with MAPE metric.
    
- - [6.2]()
+ - [6.2](TimeSeriesPredictions/notebooks/TimeSeriesSeasonalPrediction.ipynb)
  
    1) Find or model time series with seasonal components (more than 3 periods).
    2) Come up with time series model.
